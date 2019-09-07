@@ -1,6 +1,6 @@
 # Social network by KrivoGus team
 
-## Statement of the problem for design
+## Name and purpose of laboratory work
 
 ## [Design strategy](http://example.com)
 
