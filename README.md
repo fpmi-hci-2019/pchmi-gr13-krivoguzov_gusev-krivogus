@@ -1,23 +1,19 @@
-# Social network by KrivoGus team
+# Social network by Alexander Gusev and Vladislav Krivogusov team
 
-## Name and purpose of laboratory work
+## Repos
 
-## [Design strategy](http://example.com)
+### [https://gitlab.com/krivogus/file-storage](file-storage)
+### [https://gitlab.com/krivogus/api-gateway](api-gateway)
+### [https://gitlab.com/krivogus/webapp](webapp)
 
-## [Diagrams of business processes](http://example.com)
+## [Laboratory work 1](https://docs.google.com/document/d/18M7Ha5m7uOFzWM0rkdf_wDWbn6yl5k-vs2ERYm1cNmw/edit?usp=sharing)
 
-## [Competitor analysis](http://example.com)
+## [Laboratory work 2](https://docs.google.com/document/d/1Sw7CwG8oEgzRq7skyUTK2Rg0f7iRyUqXwu08S87UJk0/edit?usp=sharing)
 
-## [Questionnaire and survey results](http://example.com)
+## [Laboratory work 3](https://docs.google.com/document/d/1If7b9cYfXYlS-6HftQzlOdZwzAZ-J_xQwlRoJATJ5KE/edit?usp=sharing)
 
-## [User profiles](http://example.com)
+## [Laboratory work 4](https://docs.google.com/document/d/1NAOGI7Q2syNBNuEpwx_mfBiTh89XChcw92NAvPeywcs/edit?usp=sharing)
 
-## [Task profiles](http://example.com)
+## [Laboratory work 5(In doc history)](https://docs.google.com/document/d/1NAOGI7Q2syNBNuEpwx_mfBiTh89XChcw92NAvPeywcs/edit?usp=sharing)
 
-## [Environment profiles](http://example.com)
-
-## [Characters](http://example.com)
-
-## [Context scenarios of each character](http://example.com)
-
-## [General conclusions on laboratory work](http://example.com)
+## [Laboratory work 6-8](https://docs.google.com/document/d/1-CqCknD7t2zEckyyxP8tN2Br-IURZaORR5gPYCvMRAE/edit?usp=sharing)
